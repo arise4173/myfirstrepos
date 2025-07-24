@@ -1,3 +1,3 @@
 # myfirstrepos
-My First Git Hub Repos
+My First Git Hub Repos.
 Author - Hamza
